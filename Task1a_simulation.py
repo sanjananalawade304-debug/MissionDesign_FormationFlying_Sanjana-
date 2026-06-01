@@ -1,5 +1,5 @@
 # ==============================================================
-# TASK 1 — CONSTELLATION REVISIT ANALYSIS
+# TASK 1 — CONSTELLATION REVISIT ANALYSIS for 4 planes and 1 cluster each
 # ==============================================================
 
 import orekit_jpype as orekit
